@@ -1,2 +1,6 @@
-# twse-stockTool.php
-Stock tool fetching from TWSE
+*mops.twse.com.tw* PHP API
+==========================
+
+mops.twse.com.tw API fetching by PHP
+
+
